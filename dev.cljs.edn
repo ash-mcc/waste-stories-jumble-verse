@@ -1,0 +1,2 @@
+;; Dev-Build
+{:main waste-stories.jumble-verse.core}
