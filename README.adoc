@@ -2,7 +2,11 @@
 
 👁️ https://ash-mcc.github.io/waste-stories-jumble-verse/[View] the generated web page.
 
-== Building a 'static' web page from the source
+=== A screenshot
+
+image::screenshot.gif["An animated GIF of the presented verse", width=50%]
+
+=== Building a 'static' web page from the source
 
 [source]
 ----
