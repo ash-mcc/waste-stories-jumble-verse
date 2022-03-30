@@ -11,8 +11,8 @@ waste_stories.jumble_verse.core.options = cljs.core.clj__GT_js.call(null,new clj
  */
 waste_stories.jumble_verse.core.convert = (function waste_stories$jumble_verse$core$convert(){
 var slides = waste_stories.jumble_verse.slides.all.call(null);
-return clojure.string.join.call(null,cljs.core.map.call(null,(function (p1__9832_SHARP_){
-return cljs.core.str.cljs$core$IFn$_invoke$arity$1(hiccups.runtime.render_html.call(null,p1__9832_SHARP_));
+return clojure.string.join.call(null,cljs.core.map.call(null,(function (p1__9793_SHARP_){
+return cljs.core.str.cljs$core$IFn$_invoke$arity$1(hiccups.runtime.render_html.call(null,p1__9793_SHARP_));
 }),slides));
 });
 /**
