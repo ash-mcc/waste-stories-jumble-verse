@@ -1,0 +1,11 @@
+{
+  "name": "waste-stories-jumble-verse",
+  "version": "1.0.0",
+  "description": "A presentation of a verse that was written for the Waste Stories project",
+  "main": "reveal.core",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "bootstrap-4-grid": "^3.4.0",
+    "reveal.js": "hakimel/reveal.js#4.3.1"
+  }
+}
