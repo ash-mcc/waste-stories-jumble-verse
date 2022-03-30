@@ -1,0 +1,32 @@
+.statement {
+    color: #ffc107;
+}
+
+.issue {
+    color: #546e7a;
+}
+
+.pro {
+    color: #81c784;
+}
+
+.con {
+    color: #f44336;
+}
+
+.mr {
+    margin-right: 0.5em;
+}
+
+/* ----- customisations... -------- */
+
+/* darken and blur
+.backgrounds {
+    -webkit-filter: blur(1px) saturate(.5) brightness(.4);
+    -moz-filter: blur(1px) saturate(.7) brightness(.5);
+    -o-filter: blur(1px) saturate(.7) brightness(.5);
+    -ms-filter: blur(1px) saturate(.7) brightness(.5);
+    filter: blur(1px) saturate(.7) brightness(.5);
+ }
+ */
+
